@@ -1,5 +1,5 @@
 -- create database estate;
-CREATE DATABASE estate;
+-- CREATE DATABASE estate;
 
 use estate;
 
