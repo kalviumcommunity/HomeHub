@@ -1,5 +1,5 @@
 use estate;
--- Select all users with the 'Agent' role
+-- Select all users with the 'Agent' roles
 SELECT U.Username, U.FirstName, U.LastName, R.RoleName
 FROM Users U
 JOIN UserRoles UR ON U.UserID = UR.UserID
