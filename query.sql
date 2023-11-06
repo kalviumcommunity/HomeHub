@@ -7,6 +7,7 @@ SHOW COLUMNS FROM Properties;
 SELECT * FROM Users;
 
 
--- select * FROM estate;
+select * FROM estate;
+
 
 show tables;
